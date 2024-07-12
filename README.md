@@ -4,7 +4,36 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukul-anand-bhatt&label=Profile%20views&color=0e75b6&style=flat" alt="mukul-anand-bhatt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukul-anand-bhatt" alt="mukul-anand-bhatt" /></a> </p>
+<img src="https://github.com/StarKnightt/StarKnightt/assets/92244026/88aa0fff-389b-4d45-9724-6f6e8a58526c" alt="give alternate name if image doesn't load" align="right" width="190">
+<div>
 
+![Visitor Count](https://profile-counter.glitch.me/StarKnightt/count.svg)
+
+
+
+
+[![wakatime](https://wakatime.com/badge/user/d27d27da-dc32-4c1b-a703-f654f4050105.svg)](https://wakatime.com/@d27d27da-dc32-4c1b-a703-f654f405010)
+
+
+
+</div>  
+
+## Coding Status: 
+<!--START_SECTION:waka-->
+
+```txt
+From: 04 June 2023 - To: 11 July 2024
+
+Total Time: 382 hrs 50 mins
+
+JavaScript        161 hrs 14 mins ██████████▒░░░░░░░░░░░░░░   41.99 %
+CSS               90 hrs 7 mins   ██████░░░░░░░░░░░░░░░░░░░   23.47 %
+HTML              85 hrs 44 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
+Markdown          15 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Java              13 hrs 20 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+```
+
+<!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@m12here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@m12here" height="30" width="40" /></a>
