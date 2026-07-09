@@ -4,9 +4,6 @@
 
 **`FORWARD DEPLOYED ENGINEER`** · **`BENGALURU, IN`**
 
-I build production backend, automations, and integrations,<br/>
-then get on the call to make sure it **actually ships**.
-
 *I build backend. I deploy with customers. I automate workflows. I optimize systems.*
 
 <br/>
@@ -49,7 +46,7 @@ Codebase optimizations that cut cost, raise reliability, and scale without drama
 
 | | | |
 | :-- | :-- | :-- |
-| `FLAGSHIP` | **[Data Connector: the core product](https://fdemukul.live/work/superjoin)** <br/> SUPERJOIN · FDE | End-to-end owner of the engine syncing 34+ third-party sources into Sheets & Excel as one source of truth. Now automating it to run on autopilot. 30k+ users, 200+ companies. |
+| `FLAGSHIP` | **[Data Connector: the core product](https://fdemukul.live/work/superjoin)** <br/> SUPERJOIN · FDE | End-to-end owner of the engine syncing 39+ third-party sources into Sheets & Excel as one source of truth. Now automating it to run on autopilot. 30k+ users, 200+ companies. |
 | `AI-NATIVE` | **[Claude Pickup](https://fdemukul.live/work/claude-pickup)** <br/> AGENTIC DEV WORKFLOW | Non-technical testers file tickets → Claude drafts a PRD → I review → Claude builds → I test → merge. ~40% of issues resolved end-to-end. |
 | `GOV SCALE` | **[Food-Safety Inspection Backend](https://fdemukul.live/work/irctc)** <br/> IRCTC · CONTRACT | Backend for India's national food-safety inspection platform. 1,000+ daily inspections with geo-location validation, at government scale. |
 | `ENTERPRISE` | **[Kisna Jewellers Integration](https://fdemukul.live/work/kisna)** <br/> KISNA · BYTIVE | Microservice syncing MongoDB → MSSQL to feed Salesforce ingestion for an enterprise client, plus GoKwik + Reward Rally payment/rewards integration. |
